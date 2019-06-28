@@ -1,5 +1,6 @@
 # Data_Mining
 * Classification
-* Clustering, Regression
+* Clustering
+* Regression
 * Association
 * Natural Language Processing
