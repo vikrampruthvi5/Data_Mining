@@ -1,5 +1,17 @@
 # Natural Language Processing
 
+## Setting up environment
+* Clone repository
+* create a file named `app.api_json.json`
+* add your google api key in json format
+```
+[
+  {
+    "kgsearch": "<YOUR API KEY HERE>"
+  }
+]
+```
+
 ## Gist
 * Identify user input
 * Retrieve information
