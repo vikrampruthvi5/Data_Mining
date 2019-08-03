@@ -17,13 +17,13 @@ We perform the steps 1 to 5 here.
 
 ***
 
-## Project Understanding
+### Project Understanding
 
-## Data Understanding
+### Data Understanding
 
-## Data Pre-Processing
+### Data Pre-Processing
 
-## Modeling
+### Modeling
 
-## Evaluation
+### Evaluation
 
