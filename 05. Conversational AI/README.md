@@ -2,7 +2,7 @@
 
 ## Setting up environment
 * Clone repository
-* create a file named `app.api_json.json`
+* create a file named `app.api_json.json` under Data_Mining/05.Conversational \AI/ folder
 * add your google api key in json format
 ```
 [
