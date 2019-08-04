@@ -16,7 +16,7 @@ Knime tool is used to follow all the CRISP process
 We perform the steps 1 to 5 here.
 
 ## Work Flow
-![Image description](Data_Mining/Knime Projects/NHL Player Salary/Images/1.png)
+![Image description](./Images/1.png)
 
 ***
 
