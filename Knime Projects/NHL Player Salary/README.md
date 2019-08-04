@@ -16,19 +16,20 @@ Knime tool is used to follow all the CRISP process
 We perform the steps 1 to 5 here.
 
 ## Work Flow
-![Image description](./Images/Full.png)
+![Image description](./Images/Full.png =100x20)
 
 ***
 
 ### Project Understanding
-![Image description](./Images/1.png)
-
-### Data Understanding
-![Image description](./Images/2.png)
+![Image description](./Images/1.png =100x20)
 
 ### Data Pre-Processing
-![Image description](./Images/3.png)
+![Image description](./Images/2.png =100x20)
+
+
+
 
 ### Modeling & Evaluation
-![Image description](./Images/4.png)
-![Image description](./Images/5.png)
+![Image description](./Images/3.png =100x20)
+![Image description](./Images/4.png =100x20)
+![Image description](./Images/5.png =100x20)
