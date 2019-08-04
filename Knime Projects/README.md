@@ -15,6 +15,9 @@ Knime tool is used to follow all the CRISP process
 6. Deployment
 We perform the steps 1 to 5 here.
 
+## Work Flow
+
+
 ***
 
 ### Project Understanding
